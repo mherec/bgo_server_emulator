@@ -7,7 +7,7 @@ Pawn fields (e.g., pawn present / pawn picked up)
 LED highlights
 API requests
 
-##################################################################################################
+##################################################################
 
 #Русский
 
@@ -18,7 +18,7 @@ BGO Server Emulator — это приложение, предназначенн�
 Подсветку светодиодов (LED)
 Запросы к API
 
-##################################################################################################
+##################################################################
 
 #Español
 
@@ -29,7 +29,7 @@ Campos de fichas (por ejemplo, ficha presente / ficha recogida)
 Iluminación LED
 Solicitudes API
 
-##################################################################################################
+##################################################################
 
 #Polski
 BGO Server Emulator to aplikacja służąca do uruchamiania i emulowania funkcji konsoli Board Game Odyssey. Umożliwia kontrolę oraz debugowanie tworzonych gier i aplikacji. Dzięki niej można między innymi emulować:
